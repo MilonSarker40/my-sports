@@ -62,7 +62,7 @@ export default function OTPPage() {
           </div>
           <button
             type="submit"
-            className="w-full bg-[#E51E23] text-white py-2 rounded-lg hover:bg-[#000] transition mb-4"
+            className="w-full bg-[#E51E23] text-white py-3 rounded-lg hover:bg-[#000] transition mb-4"
           >
             Verify
           </button>
